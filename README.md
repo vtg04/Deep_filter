@@ -1,7 +1,7 @@
 ## Loading Models and Images:
 
 We use dlib to load the facial landmark predictor.
-The face_recognition library is used to load the reference image (Elon Musk or Cristiano Ronaldo) and get the face encodings.
+The face_recognition library is used to load the reference image and get the face encodings.
 
 ## Apply Deepfake Filter Function:
 
